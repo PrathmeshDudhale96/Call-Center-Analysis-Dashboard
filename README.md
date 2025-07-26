@@ -1,47 +1,32 @@
-# Update README to use GitHub-friendly image links instead of local filenames for display
+# 📞 Call Center Performance Dashboard
 
-github_image1_url = "https://github.com/PrathmeshDudhale96/Call-Center-Analysis-Dashboard/assets/your_image1.png"
-github_image2_url = "https://github.com/PrathmeshDudhale96/Call-Center-Analysis-Dashboard/assets/your_image2.png"
+A Power BI dashboard project analyzing call center performance data to uncover operational efficiency, response trends, customer sentiment, and service quality insights.
 
-final_readme_content = f"""
-# 📞 Call Center Analysis Dashboard
+## 🚀 Key Highlights
 
-A Power BI project designed to analyze and visualize call center performance data to uncover insights related to **operational efficiency** and **customer sentiment**.
+- 📊 **Total Calls:** 32.94K  
+- ⏱️ **Response Time %:** 75.26%  
+- 🕑 **Total Call Durations:** 13.74K hours  
+- 📈 **Total Call Minutes:** 824.22K  
+- 📞 **Avg Call Duration:** 25.02 minutes  
 
-## 📌 Project Highlights
+## 📌 Features
 
-- **Tool Used**: Power BI Desktop  
-- **Objective**: Analyze call center KPIs including total calls, sentiment distribution, call duration, and response times.
-- **Dataset Period**: October 2020
+- Interactive visuals by **Channel**, **City**, **Sentiment**, **State**, and **Call Reason**
+- Drilldown functionality on daily call performance
+- SLA (Service Level Agreement) tracking with granular customer-level insights
+- Geographic mapping of call volumes
 
-## 📊 Key Metrics
+## 🧠 Tools Used
 
-- **Total Calls**: 32.94K  
-- **Total Call Duration**: 13.74K Hours  
-- **Avg Call Duration**: 25.02 Minutes  
-- **Response Time Compliance**: 75.26%  
-- **Total Call Minutes**: 824.22K Minutes  
+- Power BI Desktop
+- Excel (for data preprocessing)
 
-## 📍 Dashboard Features
+## 📷 Result Screenshots
 
-- **Daily Call Trends** (Monday to Sunday)
-- **Call Volume by State and City**
-- **Call Reasons** (Billing, Payments, Service, etc.)
-- **Channel Distribution** (Call Center, Chatbot, Email, Web)
-- **Customer Sentiment Analysis** (Very Positive to Very Negative)
-- **Interactive Filters**: Date Range, City, Channel
+### Home Dashboard
+![Home Dashboard](1761f30d-4182-4fde-9eae-256768399679.png)
 
-## 📸 Result Preview
+### Grid View
+![Grid Dashboard](cf1845f0-10ea-4a58-9101-9978fade9533.png)
 
-### Dashboard View – Home Tab  
-![Dashboard Home]({github_image1_url})
-
-### Dashboard View – Grid Tab  
-![Dashboard Grid]({github_image2_url})
-
-> Upload the images to your GitHub repo in the `assets` folder and replace the links above accordingly.
-
-## 🔗 Project Link
-
-[🔗 View GitHub Repository](https://github.com/PrathmeshDudhale96/Call-Center-Analysis-Dashboard.git)
-"""
