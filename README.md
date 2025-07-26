@@ -1,6 +1,9 @@
-# Update the README content to include the actual uploaded image filenames for the result section
+# Update README to use GitHub-friendly image links instead of local filenames for display
 
-updated_readme_content = """
+github_image1_url = "https://github.com/PrathmeshDudhale96/Call-Center-Analysis-Dashboard/assets/your_image1.png"
+github_image2_url = "https://github.com/PrathmeshDudhale96/Call-Center-Analysis-Dashboard/assets/your_image2.png"
+
+final_readme_content = f"""
 # 📞 Call Center Analysis Dashboard
 
 A Power BI project designed to analyze and visualize call center performance data to uncover insights related to **operational efficiency** and **customer sentiment**.
@@ -31,16 +34,14 @@ A Power BI project designed to analyze and visualize call center performance dat
 ## 📸 Result Preview
 
 ### Dashboard View – Home Tab  
-![Dashboard Home](566ef427-cacf-4fdb-80aa-b44f965667eb.png)
+![Dashboard Home]({github_image1_url})
 
 ### Dashboard View – Grid Tab  
-![Dashboard Grid](ce934f50-e3ea-4b0f-975f-53a4eb4bd050.png)
+![Dashboard Grid]({github_image2_url})
 
-> *(Make sure these images are uploaded to your GitHub repo for proper rendering)*
+> Upload the images to your GitHub repo in the `assets` folder and replace the links above accordingly.
 
 ## 🔗 Project Link
 
 [🔗 View GitHub Repository](https://github.com/PrathmeshDudhale96/Call-Center-Analysis-Dashboard.git)
 """
-
-
