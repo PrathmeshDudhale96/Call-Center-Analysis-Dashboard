@@ -23,10 +23,6 @@ A Power BI dashboard project analyzing call center performance data to uncover o
 - Excel (for data preprocessing)
 
 ## 📷 Result Screenshots
+<img width="1599" height="896" alt="Image" src="https://github.com/user-attachments/assets/56b94989-dd79-4884-bf33-d8d35499b44e" />
 
-### Home Dashboard
-![Home Dashboard](1761f30d-4182-4fde-9eae-256768399679.png)
-
-### Grid View
-![Grid Dashboard](cf1845f0-10ea-4a58-9101-9978fade9533.png)
-
+<img width="1583" height="892" alt="Image" src="https://github.com/user-attachments/assets/63d6b608-cc6f-40a6-94ef-8489f1aec01f" />
